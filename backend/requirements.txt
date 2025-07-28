@@ -1,0 +1,11 @@
+asgiref==3.9.1
+Django==5.2.4
+django-cors-headers==4.7.0
+djangorestframework==3.16.0
+joblib==1.5.1
+numpy==2.3.2
+PyMuPDF==1.26.3
+scikit-learn==1.7.1
+scipy==1.16.1
+sqlparse==0.5.3
+threadpoolctl==3.6.0
